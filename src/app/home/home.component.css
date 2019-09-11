@@ -1,0 +1,42 @@
+#home{
+     background-image: url("../../assets/images/card-soft-template-paper-report_1258-167.jpg");
+     background-size: 100% 100%;
+     clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 95%, 75% 100%, 50% 100%, 25% 100%, 0 95%, 0% 35%, 0 0);
+
+    
+}
+.myBtn{
+    font-size: 20px;
+    color: white;
+    background-color: transparent;
+    padding: 10px 20px;
+    border: 2px solid white
+}
+.content h1{
+    color: #B20000
+}
+.p-bold{
+    font-weight: 500;
+    font-size: 20px
+}
+.item i{
+    color: #B20000
+}
+.item h3{
+color: #5C5C74
+}
+.rate {
+    width: 100%;
+    border: 2px solid #B20000;
+    border-radius: 20px
+}
+
+.rate i{
+    color: #b20000;
+    
+}
+.reg{
+    background-color: #B20000;
+    color: white;
+    text-align: center
+}

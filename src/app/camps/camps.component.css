@@ -1,0 +1,17 @@
+nav img{
+    height: 60px;
+    width: 80px;
+}
+
+
+.header
+{
+    height: 300px;
+    background-image: url(../../assets/images/Untitled.png);
+    background-size:cover;
+    background-attachment: fixed;
+
+ 
+
+    
+}

@@ -24,9 +24,20 @@
               "src/assets"
             ],
             "styles": [
+              "node_module/owl.carousel.min.css",
+              "node_module/owl.theme.default.min.css",
+              "node_modules/fontawesome-free-5.9.0-web/css/all.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_module/se.js",
+              "node_module/wow.min.js",
+              "node_module/owl.carousel.min.js",
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/popper.js/dist/umd/popper.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {

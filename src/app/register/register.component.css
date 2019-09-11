@@ -1,0 +1,25 @@
+.navbar-brand img {width: 80px;height: 60px}
+.icon{color: #fff;font-size: 140px;}
+.box {border: solid 1px #dc3545;
+    padding: 20px 100px 30px
+}
+.register{
+    background-image: url(../../assets/images/lp-meta-hospital-resources.jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+    color: #fff;
+    font-size: 18px
+}
+.view{height: 37%;
+    background-image: url(../../assets/images/blood-donation-png-hd-blood-3-1973.png);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-color: red;
+}
+.cust{position: fixed;
+top:2%;
+right: 2%}
+.cust{border-radius: 30%}
+.cust a {color: #dc3545}
+.cust:hover a{text-decoration: none;
+color: #fff}

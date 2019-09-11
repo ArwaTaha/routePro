@@ -1,0 +1,24 @@
+.navbaring{
+    background-color: #CF797E;
+}  
+
+.donations{
+    background-color: #F8F1E4;
+    border: 2px solid #CF797E;
+    width: 50%;
+    margin-top: 200px;
+}
+.donations h3{
+    color: #CF797E;
+}
+.donations span{
+    font-size: 20px;
+    font-family: Arial;
+}
+.selection{
+    margin:100px 0px;
+}
+.submiting{
+    background-color: #CF797E;
+    color: white;
+}
